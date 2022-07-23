@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>439071964263-6iqvfejkhk5beta4hjpku3lqt6e66619.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.439071964263-6iqvfejkhk5beta4hjpku3lqt6e66619</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>439071964263-cku8qaknc00eb8v67qjhpkib6ikl9l3j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFZK14NDqVAlVQSMxuohd89zBfYo_FOIU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>439071964263</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iqonic.flutterwoobox</string>
+	<key>PROJECT_ID</key>
+	<string>woobox-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>woobox-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:439071964263:ios:7b23fa418e87df18f9a8c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://woobox-flutter.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "585416720089",
+    "project_id": "women-shoes-25adc",
+    "storage_bucket": "women-shoes-25adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585416720089:android:50059c6c05b426391f88c8",
+        "android_client_info": {
+          "package_name": "women.shoesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585416720089-84fpg1qlmhr9lbrkh8rhqnb4c49pjrqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "women.shoesapp",
+            "certificate_hash": "b2b41501986034e913cc21da2a37b4cffa796139"
+          }
+        },
+        {
+          "client_id": "585416720089-89bg9qi55sc3le001qum2scc9m66u84a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkxABFdwMKF9-P7wkraTURsFCh0_iHIRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585416720089-89bg9qi55sc3le001qum2scc9m66u84a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

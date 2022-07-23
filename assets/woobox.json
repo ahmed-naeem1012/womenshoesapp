@@ -1,0 +1,90 @@
+{
+  "dashboard": {
+    "sorting": [
+      "advertiseSlider",
+      "categories",
+      "newArrivals",
+      "spotLight",
+      "saleBanner",
+      "store",
+      "todayDeal",
+      "topPicks",
+      "trendingProduct",
+      "moreOffer",
+      "hotRightNow",
+      "youMayAlsoLike"
+    ],
+    "layout": "dashboard1",
+    "appBar": {
+      "title": "Dashboard"
+    },
+    "advertiseBanner": {
+      "enable": true
+    },
+    "category": {
+      "enable": true
+    },
+    "saleBanner": {
+      "enable": true
+    },
+    "newArrivals": {
+      "enable": true,
+      "title": "New Arrivals",
+      "viewAll": "View All"
+    },
+    "spotLight": {
+      "enable": true,
+      "title": "In the spotlight",
+      "viewAll": "View All"
+    },
+    "trendingProduct": {
+      "enable": true,
+      "title": "Trending Product",
+      "viewAll": "View All"
+    },
+    "todayDeal": {
+      "enable": true,
+      "title": "Today's best deal",
+      "viewAll": "View All"
+    },
+    "topPicks": {
+      "enable": true,
+      "title": "Top picks",
+      "viewAll": "View All"
+    },
+    "moreOffer": {
+      "enable": true,
+      "title": "More offers for you",
+      "viewAll": "View All"
+    },
+    "hotRightNow": {
+      "enable": true,
+      "title": "Hot right now",
+      "viewAll": "View All"
+    },
+    "vendor": {
+      "enable": true,
+      "title": "Top sellers",
+      "viewAll": "View All"
+    },
+    "youMayAlsoLike": {
+      "enable": true,
+      "title": "You may also Like",
+      "viewAll": "View All"
+    }
+  },
+  "productdetailview": {
+    "layout": "productDetail2"
+  },
+  "appSetUp": {
+    "appName": "Shoe Shopping",
+    "primaryColor": "#C62828",
+    "secondaryColor": "#2635DF",
+    "backgroundColor": "#FCFDFD",
+    "textPrimaryColor": "#212121",
+    "textSecondaryColor": "#757575",
+    "consumerKey": "ck_731032254ff39404702a64f14c7ea6641edcc375",
+    "consumerSecret": "cs_76b5e08ff748391742243a7906b68716569a0ce1",
+    "appUrl": "https://shoes.store39.in/wp-json/"
+  }
+}
